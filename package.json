@@ -1,0 +1,21 @@
+{
+  "name": "sleekflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonardiSarim/SleekFlow.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LeonardiSarim/SleekFlow/issues"
+  },
+  "homepage": "https://github.com/LeonardiSarim/SleekFlow#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.5.0"
+  }
+}
